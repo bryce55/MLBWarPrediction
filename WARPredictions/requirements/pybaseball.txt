@@ -1,0 +1,6 @@
+pybaseball
+pandas
+numpy
+scikit-learn
+matplotlib
+statsmodels
