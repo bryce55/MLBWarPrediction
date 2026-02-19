@@ -9,10 +9,9 @@ And here: [LinkedIn](https://www.linkedin.com/in/brycedunigan/)
 ## Project Structure
 - notebooks/: Colab notebooks with analysis
 - requirements/: Python packages needed to run notebooks
-- visuals/: Charts and plots used in the blog (optional)
-- data/: Sample or public datasets (optional)
 
 ## How to run
 1. Install dependencies:
    ```bash
    pip install -r requirements/requirements.txt
+
